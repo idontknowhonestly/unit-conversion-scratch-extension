@@ -1,3 +1,4 @@
+response.setHeader("Content-Type", "application/javascript");
 (function (ext) {
   // Conversion functions
 
